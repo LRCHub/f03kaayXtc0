@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "NANIMONO（feat. 米津玄師）",
+  "base_artist": "中田ヤスタカ",
+  "createdAt": "2026-02-24T08:42:27.802706Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Nanimono (feat. Kenshi Yonezu)",
+      "artist": "Yasutaka Nakata",
+      "has_synced": true,
+      "path": "select/01_Nanimono_(feat._Kenshi_Yonezu)_Yasutaka_Nakata.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Nanimono (feat. Kenshi Yonezu) [Extended Mix]",
+      "artist": "Yasutaka Nakata",
+      "has_synced": true,
+      "path": "select/02_Nanimono_(feat._Kenshi_Yonezu)_[Extended_Mix]_Yasutaka_Nakata.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Nanimono (feat. Kenshi Yonezu) [TeddyLoid Remix]",
+      "artist": "Yasutaka Nakata",
+      "has_synced": true,
+      "path": "select/03_Nanimono_(feat._Kenshi_Yonezu)_[TeddyLoid_Remix]_Yasutaka_Nakata.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "NANIMONO (feat. 米津玄師)",
+      "artist": "Yasutaka Nakata/Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/04_NANIMONO_(feat._米津玄師)_Yasutaka_Nakata_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "NANIMONO (feat. 米津玄師)",
+      "artist": "Yasutaka Nakata; Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/05_NANIMONO_(feat._米津玄師)_Yasutaka_Nakata;_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "NANIMONO (feat. Kenshi Yonezu)",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/06_NANIMONO_(feat._Kenshi_Yonezu)_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "NANIMONO (feat. 米津玄師)",
+      "artist": "Yasutaka Nakata",
+      "has_synced": true,
+      "path": "select/07_NANIMONO_(feat._米津玄師)_Yasutaka_Nakata.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "NANIMONO (feat. 米津玄師) - Danny L Harle remix",
+      "artist": "Yasutaka Nakata",
+      "has_synced": true,
+      "path": "select/08_NANIMONO_(feat._米津玄師)_-_Danny_L_Harle_remix_Yasutaka_Nakata.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Nanimono (feat. Kenshi Yonezu) [Danny L Harle Remix]",
+      "artist": "Yasutaka Nakata",
+      "has_synced": true,
+      "path": "select/09_Nanimono_(feat._Kenshi_Yonezu)_[Danny_L_Harle_Remix]_Yasutaka_Nakata.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "NANIMONO (feat. Kenshi Yonezu) (banvox Remix)",
+      "artist": "Yasutaka Nakata",
+      "has_synced": true,
+      "path": "select/10_NANIMONO_(feat._Kenshi_Yonezu)_(banvox_Remix)_Yasutaka_Nakata.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "NANIMONO (feat. 米津玄師) - extended mix",
+      "artist": "Yasutaka Nakata",
+      "has_synced": true,
+      "path": "select/11_NANIMONO_(feat._米津玄師)_-_extended_mix_Yasutaka_Nakata.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "NANIMONO (feat. 米津玄師)",
+      "artist": "中田ヤスタカ, 米津玄師",
+      "has_synced": true,
+      "path": "select/12_NANIMONO_(feat._米津玄師)_中田ヤスタカ,_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "NANIMONO (feat. Kenshi Yonezu)",
+      "artist": "Yasutaka Nakata, Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/13_NANIMONO_(feat._Kenshi_Yonezu)_Yasutaka_Nakata,_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "NANIMONO(feat.米津玄師)",
+      "artist": "中田ヤスタカ",
+      "has_synced": false,
+      "path": "select/pl_01_NANIMONO(feat.米津玄師)_中田ヤスタカ.txt"
+    }
+  ]
+}
